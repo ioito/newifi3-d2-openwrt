@@ -15,5 +15,5 @@
 
 # Add a feed source
 echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
-echo 'src-git aliyundrivewebdav git@github.com:messense/aliyundrive-webdav.git' >>feeds.conf.default
+echo 'src-git aliyundrivewebdav https://github.com/ioito/aliyundrive-webdav' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
